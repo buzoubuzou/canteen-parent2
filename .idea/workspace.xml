@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c948523f-e16a-49d7-b271-ec62ae00810a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c948523f-e16a-49d7-b271-ec62ae00810a" name="Default Changelist" comment="这是我第一次提交" />
     <ignored path="$PROJECT_DIR$/canteen-parent/target/" />
     <ignored path="$PROJECT_DIR$/canteen-parent/canteen-service/target/" />
     <ignored path="$PROJECT_DIR$/canteen-parent/canteen-core/target/" />
@@ -36,7 +34,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -551,7 +553,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -634,7 +636,7 @@
       <workItem from="1562810063890" duration="2113000" />
       <workItem from="1562812195728" duration="12821000" />
       <workItem from="1563028881537" duration="4068000" />
-      <workItem from="1563070837694" duration="11800000" />
+      <workItem from="1563070837694" duration="13488000" />
     </task>
     <task id="LOCAL-00001" summary="这是我第一次提交">
       <created>1563089726695</created>
@@ -643,7 +645,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563089726695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="这是我第一次提交">
+      <created>1563090141857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563090141857</updated>
+    </task>
+    <task id="LOCAL-00003" summary="这是我第一次提交">
+      <created>1563090256097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563090256097</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -673,7 +689,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75448000" />
+    <option name="totallyTimeSpent" value="77136000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -685,7 +701,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.22989276" />
       <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.22989276" />
@@ -1219,7 +1235,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
