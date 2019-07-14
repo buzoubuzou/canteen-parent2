@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c948523f-e16a-49d7-b271-ec62ae00810a" name="Default Changelist" comment="这是我第一次提交" />
+    <list default="true" id="c948523f-e16a-49d7-b271-ec62ae00810a" name="Default Changelist" comment="这是我第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/canteen-parent/target/" />
     <ignored path="$PROJECT_DIR$/canteen-parent/canteen-service/target/" />
     <ignored path="$PROJECT_DIR$/canteen-parent/canteen-core/target/" />
@@ -35,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+            <state relative-caret-position="190">
+              <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -145,6 +147,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -242,293 +245,6 @@
               <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
               <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="untils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-dal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="Impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hengkun" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="canteen-parent1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="canteen-parent1" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="canteen-website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -547,7 +263,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563021296925" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -689,7 +405,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77136000" />
+    <option name="totallyTimeSpent" value="77586000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -701,7 +417,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.22989276" />
       <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.22989276" />
@@ -1131,13 +847,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/canteen-parent/canteen-core/src/main/resources/mapper/GoodsMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/canteen-parent/canteen-core/src/main/resources/mapper/GoodsMapper.xml" />
     <entry file="file://$PROJECT_DIR$/canteen-parent/canteen-service/src/main/java/com/hengkun/controller/GoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1236,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+        <state relative-caret-position="190">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
         </state>
       </provider>
     </entry>
