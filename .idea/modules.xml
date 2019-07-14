@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen-api/canteen-api.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen-api/canteen-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen-config/canteen-config.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen-config/canteen-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen-core/canteen-core.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen-core/canteen-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen-dal/canteen-dal.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen-dal/canteen-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/canteen-parent1.iml" filepath="$PROJECT_DIR$/.idea/canteen-parent1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen-service/canteen-service.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen-service/canteen-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen-parent/canteen-website/canteen-website.iml" filepath="$PROJECT_DIR$/canteen-parent/canteen-website/canteen-website.iml" />
+    </modules>
+  </component>
+</project>

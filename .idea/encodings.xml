@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/canteen-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canteen-parent/canteen-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canteen-parent/canteen-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canteen-parent/canteen-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canteen-parent/canteen-dal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canteen-parent/canteen-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canteen-parent/canteen-website" charset="UTF-8" />
+  </component>
+</project>

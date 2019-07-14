@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="canteen-website" />
+        <module name="canteen-dal" />
+        <module name="canteen-service" />
+        <module name="canteen-core" />
+        <module name="canteen-api" />
+        <module name="canteen-config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="canteen" target="1.8" />
+      <module name="canteen-api" target="1.8" />
+      <module name="canteen-config" target="1.8" />
+      <module name="canteen-core" target="1.8" />
+      <module name="canteen-dal" target="1.8" />
+      <module name="canteen-service" target="1.8" />
+      <module name="canteen-website" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="canteen-api" options="-parameters" />
+      <module name="canteen-config" options="-parameters" />
+      <module name="canteen-core" options="-parameters" />
+      <module name="canteen-dal" options="-parameters" />
+      <module name="canteen-service" options="-parameters" />
+      <module name="canteen-website" options="-parameters" />
+    </option>
+  </component>
+</project>
