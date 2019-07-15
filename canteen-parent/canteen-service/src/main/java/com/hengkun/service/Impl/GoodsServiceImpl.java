@@ -9,8 +9,10 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
+
 @Service
 @ComponentScan(basePackages = "com.hengkun.dao.GoodsMapper")
+
 public class GoodsServiceImpl implements GoodsService {
 
     @Resource
@@ -21,7 +23,6 @@ public class GoodsServiceImpl implements GoodsService {
         System.out.println(goods);
         return goodsMapper.selectById(id);
     }
-
     @Override
     public int insertGoodsInfo(Goods goods) {
         return goodsMapper.insert(goods);

@@ -12,7 +12,7 @@ spring:
     druid:
       url: jdbc:mysql://localhost:3306/shitang?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
       username: root
-      password: 123456
+      password: 123
       driver-class-name: com.mysql.jdbc.Driver
       # 连接池配置
       initial-size: 1
@@ -28,18 +28,17 @@ spring:
       test-while-idle: true
       time-between-eviction-runs-millis: 60000
       min-evictable-idle-time-millis: 30000
-      max-evictable-idle-time-millis: 60000
       removeAbandoned: true
       removeAbandonedTimeout: 1800
       connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
       max-pool-prepared-statement-per-connection-size: 20
       filters: stat,wall #filters: #配置多个英文逗号分隔(统计，sql注入，log4j过滤)
-      type: com.alibaba.druid.pool.DruidDataSource
+
 
     username: root
-    password: 123456
+    password: 123
     url: jdbc:mysql://localhost:3306/shitang?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&tinyInt1isBit=false&ode=false&serverTimezone=UTC
-    spring:
+  spring:
       aop:
         proxy-target-class: true
   ##########redis##############
@@ -65,7 +64,7 @@ spring:
 # 配置mybatis-plus
 mybatis-plus:
   # 配置扫描xml
-  mapper-locations:
-  - classpath:mapper/*.xml
+ mapper-locations:
+      - classpath:mapper/*.xml
   # 实体扫描，多个package用逗号或者分号分隔
-  type-aliases-package: com.hengkun.*
+ type-aliases-package: com.hengkun.*
