@@ -2,6 +2,9 @@ package com.hengkun.service;
 
 import com.hengkun.model.entity.Dishes;
 
+import java.util.List;
+
+
 /**
  *Service
  * @author yunik
@@ -9,11 +12,26 @@ import com.hengkun.model.entity.Dishes;
  **/
 public interface DishesService {
 
+
     Dishes queryDishesById(Integer id);
 
-    int insertDishesInfo(Dishes dishes);
 
-    int updateDishesInfo(Dishes dishes);
+    Boolean insertDishesInfo(Dishes dishes);
 
-    int deleteDishesById(Integer id);
+    Boolean updateDishesInfo(Dishes dishes);
+
+    Boolean deleteDishesInfo(Integer id);
+
+
+    List<Dishes> queryDishes(Dishes dishes, int pageNo, int pageSize);
+
+    List<Dishes> queryAllDishes();
+
+    String list();
+
+    Dishes queryDishes(Integer id);
+
+    Integer insertDishes(Dishes dishes);
+
+    Integer deleteDishes(Integer id);
 }

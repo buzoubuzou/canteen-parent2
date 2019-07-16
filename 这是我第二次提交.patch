@@ -1,0 +1,15 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1563180985000)
++++ .idea/vcs.xml	(date 1563181100730)
+@@ -3,5 +3,6 @@
+   <component name="VcsDirectoryMappings">
+     <mapping directory="D:/java" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/canteen-parent" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file

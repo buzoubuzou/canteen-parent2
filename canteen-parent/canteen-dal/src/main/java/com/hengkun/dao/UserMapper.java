@@ -7,4 +7,5 @@ import org.apache.ibatis.annotations.Param;
 public interface UserMapper {
         //查询用户
         User queryUser(@Param("userId")int userId);
+
 }
